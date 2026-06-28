@@ -7,10 +7,10 @@
 mnist-data.zip
 lab1/data/
 lab1/lab1_answer.ipynb
-lab1/lab1_answer_comment.ipynb
 
 # --- Currently tracked (commented out = NOT ignored) ---
 # README.md
 # environment.yml
+# lab1/lab1_answer_comment.ipynb
 # .gitignore
 # lab1/lab1_instruction.ipynb
